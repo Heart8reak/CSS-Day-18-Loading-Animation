@@ -1,0 +1,16 @@
+{
+  "name": "css_18",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+    "homepage":"https://heart8reak.github.com/CSS-Day-18-Loading-Animation.git"
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
